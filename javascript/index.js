@@ -80,3 +80,5 @@ function scrollHandler() {
 window.addEventListener('scroll', scrollHandler);
 
 console.log("script is loading");
+
+
